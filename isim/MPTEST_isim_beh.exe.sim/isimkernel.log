@@ -1,0 +1,29 @@
+Command line:
+   MPTEST_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  3533
+
+Fri Nov 25 22:50:21 2016
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 846.77 Meg
+
+ Total Signals          : 22
+ Total Nets             : 151
+ Total Signal Drivers   : 14
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 20
+ Total Traceable Variables  : 31
+ Total Scalar Nets and Variables : 497
+Total Line Count : 50
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 847.819 Meg
+
+Fri Nov 25 22:50:34 2016
+

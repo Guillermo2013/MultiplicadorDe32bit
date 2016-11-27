@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Dell/Documents/Multiplicador32bIts/Multiplicador32bits/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Dell/Documents/Multiplicador32bIts/Multiplicador32bits/xst"
+elaborate
+-ifn Main.prj
+-ifmt mixed

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/Dell/Documents/Multiplicador32bIts/Multiplicador32bits/FSM.v -lang verilog -prj Multiplicador32bits -o FSM.spl -module FSM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e FSM.spl C:/Users/Dell/Documents/Multiplicador32bIts/Multiplicador32bits/FSM.sym 
